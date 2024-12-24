@@ -1,7 +1,4 @@
 # Light-Block-Crafting-Recipes
-
-
-========================================================================================
 In order to get the light blocks inside of your game you must use the following crafting
 recipies.
 
@@ -18,5 +15,3 @@ recipies.
     Place 1 Redstone Dust on top of a Torch
     
 Any Questions or concerns, Please Let Me Know!
-========================================================================================
-
